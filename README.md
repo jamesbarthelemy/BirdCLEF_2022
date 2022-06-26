@@ -6,8 +6,9 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 
 1. Competition description
 2. Data analysis
-3. Baseline
-4. Avenues explored
+3. Data preparation
+4. Baseline
+5. Avenues explored
 
 # Competition description
 
@@ -26,3 +27,7 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/distri_21.png" width="600">
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/birds_per_sound.png" width="300">
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/audio_file_duration.png" width="300">
+
+# Data preparation
+
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/data_prepa.png" width="300">
