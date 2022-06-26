@@ -9,6 +9,8 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 3. Data preparation
 4. Baseline
 5. Avenues explored
+6. Results
+7. References
 
 # Competition description
 
@@ -35,3 +37,14 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 # Baseline
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/baseline.png" width="600">
+
+# Avenues explored
+
+1. Computer vision algorithms
+2. VGGish
+3. TRILL
+4. Stacking
+
+# Results
+
+
