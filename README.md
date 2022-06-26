@@ -51,9 +51,9 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 
 # References
 
-[Baseline](https://www.kaggle.com/code/duythanhng/birdclef-2022-keras-simple-tutorial)
-[Vocal separation](https://librosa.org/librosa_gallery/auto_examples/plot_vocal_separation.html)
-[Data augmentation](https://www.kaggle.com/code/CVxTz/audio-data-augmentation/notebook)
-[VGGish](https://github.com/tensorflow/models/tree/master/research/audioset/vggish)
-[TRILL](https://arxiv.org/pdf/2002.12764.pdf)
-[Stacking](https://machinelearningmastery.com/out-of-fold-predictions-in-machine-learning/)
+1. [Baseline](https://www.kaggle.com/code/duythanhng/birdclef-2022-keras-simple-tutorial)
+2. [Vocal separation](https://librosa.org/librosa_gallery/auto_examples/plot_vocal_separation.html)
+3. [Data augmentation](https://www.kaggle.com/code/CVxTz/audio-data-augmentation/notebook)
+4. [VGGish](https://github.com/tensorflow/models/tree/master/research/audioset/vggish)
+5. [TRILL](https://arxiv.org/pdf/2002.12764.pdf)
+6. [Stacking](https://machinelearningmastery.com/out-of-fold-predictions-in-machine-learning/)
