@@ -4,13 +4,13 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 
 # Table of contents
 
-1. Competition description
-2. Data analysis
-3. Data preparation
-4. Baseline
-5. Avenues explored
+1. [Competition description](#competition-description)
+2. [Data analysis](#data-analysis)
+3. [Data preparation](#data-preparation)
+4. [Baseline](#baseline)
+5. [Avenues explored](#avenues-explored)
 6. [Results](#results)
-7. References
+7. [References](#references)
 
 # Competition description
 
