@@ -15,3 +15,9 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 
 # Data analysis
 
+1. 14852 audio files available
+2. 152 classes
+3. Imbalanced data
+4. Average file duration: 53 seconds
+5. Audio sample rate: 22050 Hz
+
