@@ -30,4 +30,4 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 
 # Data preparation
 
-<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/data_prepa.png" width="300">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/data_prepa.png" width="600">
