@@ -24,5 +24,5 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/distri_all.png" width="600">
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/distri_21.png" width="600">
-<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/birds_per_sound.png" width="600">
-<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/audio_file_duration.png" width="600">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/birds_per_sound.png" width="300">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/audio_file_duration.png" width="300">
