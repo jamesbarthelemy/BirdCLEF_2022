@@ -18,8 +18,11 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 1. 14852 audio files available
 2. 152 classes
 3. Imbalanced data
-4. Average file duration: 53 seconds
-5. Audio sample rate: 22050 Hz
+4. Mainly 1 bird per sound but can be up to 6
+5. Average file duration: 53 seconds
+6. Audio sample rate: 22050 Hz
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/distri_all.png" width="600">
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/distri_21.png" width="600">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/birds_per_sound.png" width="600">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/audio_file_duration.png" width="600">
