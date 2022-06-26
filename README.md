@@ -9,7 +9,7 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 3. Data preparation
 4. Baseline
 5. Avenues explored
-6. Results
+6. [Results](#results)
 7. References
 
 # Competition description
