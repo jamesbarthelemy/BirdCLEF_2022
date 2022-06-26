@@ -21,3 +21,5 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 4. Average file duration: 53 seconds
 5. Audio sample rate: 22050 Hz
 
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/distri_all.png" width="600">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/distri_21.png" width="600">
