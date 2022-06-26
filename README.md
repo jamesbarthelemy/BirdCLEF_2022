@@ -12,3 +12,6 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 # Competition description
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/desc.png" width="1200">
+
+# Data analysis
+
