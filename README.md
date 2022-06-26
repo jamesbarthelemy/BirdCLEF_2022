@@ -30,13 +30,19 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/birds_per_sound.png" width="300">
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/audio_file_duration.png" width="300">
 
+[Back to table of contents](#table-of-contents)
+
 # Data preparation
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/data_prepa.png" width="600">
 
+[Back to table of contents](#table-of-contents)
+
 # Baseline
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/baseline.png" width="600">
+
+[Back to table of contents](#table-of-contents)
 
 # Avenues explored
 
@@ -45,9 +51,13 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 3. TRILL
 4. Stacking
 
+[Back to table of contents](#table-of-contents)
+
 # Results
 
 <img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/scores.png" width="1200">
+
+[Back to table of contents](#table-of-contents)
 
 # References
 
@@ -57,3 +67,5 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 4. [VGGish](https://github.com/tensorflow/models/tree/master/research/audioset/vggish)
 5. [TRILL](https://arxiv.org/pdf/2002.12764.pdf)
 6. [Stacking](https://machinelearningmastery.com/out-of-fold-predictions-in-machine-learning/)
+
+[Back to table of contents](#table-of-contents)
