@@ -8,3 +8,6 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 2. Data analysis
 3. Baseline
 4. Avenues explored
+
+# Competition description
+
