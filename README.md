@@ -47,7 +47,7 @@ Birds are all around us, and just by listening to them we can learn a lot about 
 
 # Results
 
-<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/scores.png" width="600">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/scores.png" width="1200">
 
 # References
 
